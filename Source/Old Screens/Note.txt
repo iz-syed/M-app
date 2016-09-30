@@ -1,0 +1,5 @@
+Screen 1 : Login with Social login(FB,TW,Ins,Tumb)
+Screen 2 : Register
+Screen 3 : Log Medication & Pain 
+Screen 4 : Rate Pain 
+Screen 5 : summary view with shared either via social media or phone contacts & side menu
